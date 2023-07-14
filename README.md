@@ -88,10 +88,6 @@ cpd --minimum-tokens 100 --files . --language py --format xml > cpd.xml
 
 ### Jenkins를 위한 설정
 - Warning Next Generation 플러그인 이용
-
-## Jenkins Theme 사이트
-http://afonsof.com/jenkins-material-theme/
-
 - 내부에서 CPD 지정
 
 
