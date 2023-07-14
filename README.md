@@ -8,3 +8,4 @@ https://github.com/ojdkbuild/ojdkbuild
 - Py: https://github.com/geekan/MetaGPT
 
 - Jenkins_Py: https://github.com/tinygrad/tinygrad
+- Jenkins_PyJS: https://github.com/ladjs/superagent
